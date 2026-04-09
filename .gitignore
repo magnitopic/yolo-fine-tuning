@@ -1,1 +1,6 @@
-imgs
+imgs/
+dataset/
+.DS_Store
+.ipynb_checkpoints/
+runs/
+*.pt
